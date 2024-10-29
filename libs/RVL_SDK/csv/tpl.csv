@@ -1,0 +1,3 @@
+Symbol Name, Object File, Library Archive, Matching
+TPLBind,TPL.o,tpl.a,true
+TPLGet,TPL.o,tpl.a,true
